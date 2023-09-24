@@ -52,6 +52,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import mulf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-ops-mulf@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/math-base-ops-mulf/tags). For example,
+
+```javascript
 import mulf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-ops-mulf@v0.1.0-deno/mod.js';
 ```
 
@@ -98,7 +103,7 @@ v = mulf( NaN, NaN );
 
 ```javascript
 import rand from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-discrete-uniform@deno/mod.js';
-import mulf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-ops-mulf@v0.1.0-deno/mod.js';
+import mulf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-ops-mulf@deno/mod.js';
 
 var x;
 var y;

@@ -52,6 +52,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import mulf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-ops-mulf@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/math-base-ops-mulf/tags). For example,
+
+```javascript
 import mulf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-ops-mulf@v0.2.1-esm/index.mjs';
 ```
 
@@ -103,7 +108,7 @@ v = mulf( NaN, NaN );
 <script type="module">
 
 import rand from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-discrete-uniform@esm/index.mjs';
-import mulf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-ops-mulf@v0.2.1-esm/index.mjs';
+import mulf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-ops-mulf@esm/index.mjs';
 
 var x;
 var y;

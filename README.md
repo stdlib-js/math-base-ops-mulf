@@ -230,7 +230,7 @@ int main( void ) {
 
 -   <span class="package-name">[`@stdlib/number-float32/base/add`][@stdlib/number/float32/base/add]</span><span class="delimiter">: </span><span class="description">compute the sum of two single-precision floating-point numbers.</span>
 -   <span class="package-name">[`@stdlib/math-base/ops/divf`][@stdlib/math/base/ops/divf]</span><span class="delimiter">: </span><span class="description">divide two single-precision floating-point numbers.</span>
--   <span class="package-name">[`@stdlib/math-base/ops/mul`][@stdlib/math/base/ops/mul]</span><span class="delimiter">: </span><span class="description">multiply two double-precision floating-point numbers.</span>
+-   <span class="package-name">[`@stdlib/number-float64/base/mul`][@stdlib/number/float64/base/mul]</span><span class="delimiter">: </span><span class="description">multiply two double-precision floating-point numbers.</span>
 -   <span class="package-name">[`@stdlib/math-base/ops/subf`][@stdlib/math/base/ops/subf]</span><span class="delimiter">: </span><span class="description">subtract two single-precision floating-point numbers.</span>
 
 </section>
@@ -315,7 +315,7 @@ Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 
 [@stdlib/math/base/ops/divf]: https://github.com/stdlib-js/math-base-ops-divf
 
-[@stdlib/math/base/ops/mul]: https://github.com/stdlib-js/math-base-ops-mul
+[@stdlib/number/float64/base/mul]: https://github.com/stdlib-js/number-float64-base-mul
 
 [@stdlib/math/base/ops/subf]: https://github.com/stdlib-js/math-base-ops-subf
 
